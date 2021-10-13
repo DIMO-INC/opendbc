@@ -1,6 +1,10 @@
-opendbc
-======
+DIMO's opendbc fork 
 
+Starting this to separate out the information added to support DIMO-spefific apps. We'll merge in changes from OpenDBC master where helpful, and contribute back (if desired). 
+
+
+
+======
 The project to democratize access to the decoder ring of your car.
 
 
